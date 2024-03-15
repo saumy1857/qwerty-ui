@@ -1,0 +1,25 @@
+{
+  "name": "ui-library",
+  "version": "1.0.0",
+  "description": "A UI LIBRARY ",
+  "main": "scr/index.ts",
+  "files":["scr/**/*"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saumy1857/qwerty-ui.git"
+  },
+  "author": "SAUMY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saumy1857/qwerty-ui/issues"
+  },
+  "homepage": "https://github.com/saumy1857/qwerty-ui#readme",
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.3",
+    "@types/react": "^18.2.66",
+    "@types/styled-components": "^5.1.34"
+  }
+}
